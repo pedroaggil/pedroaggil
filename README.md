@@ -6,7 +6,7 @@
 ##
 
 <br>
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaggil&layout=compact&theme=monokai&bg_color=000)(https://github.com/anuraghazra/github-readme-stats)]
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaggil&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 * Ferramentas / linguagens:

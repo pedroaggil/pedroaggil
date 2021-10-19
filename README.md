@@ -4,12 +4,8 @@
 * Estou sempre em busca de novos conhecimentos, desafios e eventos interessantes!
 
 <br>
-
-<div>
-  <a href="https://github.com/pedroaggil"></a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaggil&layout=compact&theme=monokai/>
-</div>                           
-<hr>                           
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaggil&layout=compact&theme=monokai)(https://github.com/anuraghazra/github-readme-stats)]
+<br><br>                
 <div>
     <a href="https://www.linkedin.com/in/pedroggil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.crunchyroll.com/user/pedroggil" target="_blank"><img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white"></a>

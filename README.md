@@ -9,7 +9,7 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaggil&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-* Ferramentas / linguagens:
+#### Ferramentas / linguagens:
 <div>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,7 +20,7 @@
 <div>
 <br>
 
-* Frameworks:
+#### Frameworks:
 <div>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt="NLTK" src="https://img.shields.io/badge/NLTK-35495E?style=for-the-badge&logo=nltk&logoColor=white">
@@ -29,7 +29,7 @@
 </div>
 <br>
 
-* Contatos:
+#### Contatos:
 <div>
     <a href="mailto:pedroaggil@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/pedro_ggil/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

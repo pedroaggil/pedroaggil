@@ -3,12 +3,6 @@
 - :computer: Sou estudante de programação e gosto também de filmes, animes e livros no tempo livre.
 - :books: Estou sempre em busca de novos conhecimentos, desafios e eventos interessantes!
 
-##
-
-<br>
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaggil&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-
 #### Ferramentas / linguagens:
 <div>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

@@ -3,6 +3,15 @@
 - :computer: Sou estudante de programação e gosto também de filmes, animes e livros no tempo livre.
 - :books: Estou sempre em busca de novos conhecimentos, desafios e eventos interessantes!
 
+##
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaggil&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
+##    
+    
 #### Ferramentas / linguagens:
 <div>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

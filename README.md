@@ -1,7 +1,10 @@
 ### E aí! Meu nome é Pedro!
 
-- :computer: Sou estudante de programação e gosto também de filmes, animes e livros no tempo livre.
+- :computer: Sou estudante de programação e gosto também de filmes, animes e livros :)
 - :books: Estou sempre em busca de novos conhecimentos, desafios e eventos interessantes!
+- :bike: Gosto de praticar diversos esportes! Vôlei, ciclismo, natação, tênis de mesa e vários outros!
+- :dog:	Sou apaixonado por animais! Estou sempre acompanhado de algum. Vale citar minha cadela e os quatro gatos que moram comigo ;)
+- :people_holding_hands: Estou sempre com alguns amigos! Uma vida a só não vale tanto a pena.
 
 ##
 

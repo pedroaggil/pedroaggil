@@ -23,6 +23,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Ajax" src="https://img.shields.io/badge/ajax-217FBD?style=for-the-badge&logo=ajax&logoColor=white">
 <div>
 <br>
 

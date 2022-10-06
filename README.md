@@ -35,7 +35,7 @@
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img alt="Ajax" src="https://img.shields.io/badge/ajax-217FBD?style=for-the-badge&logo=ajax&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-217FBD?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F26E22?style=for-the-badge&logo=jupyter&logoColor=white">
     <img alt="PyautoGUI" src="https://img.shields.io/badge/pyautogui-1890FF?style=for-the-badge&logo=pyautogui&logoColor=white">
 </div>
 <br>

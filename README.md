@@ -37,6 +37,7 @@
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white">
     <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-F26E22?style=for-the-badge&logo=jupyter&logoColor=white">
     <img alt="PyautoGUI" src="https://img.shields.io/badge/pyautogui-1890FF?style=for-the-badge&logo=pyautogui&logoColor=white">
+    <img alt="Plotly" src="https://img.shields.io/badge/plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black">
 </div>
 <br>
 

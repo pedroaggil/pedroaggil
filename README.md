@@ -25,6 +25,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="C Sharp" src="https://img.shields.io/badge/C%20Sharp-953DAC?style=for-the-badge&logo=csharp&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1572B6?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <div>
 <br>
 
